@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 
+=======
+//
+>>>>>>> 67a88c6330de743a3cc3020c79b555decd5795d4
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
